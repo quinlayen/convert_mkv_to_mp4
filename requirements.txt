@@ -1,0 +1,7 @@
+altgraph==0.17.4
+ffmpeg==1.4
+ffmpeg-python==0.2.0
+future==1.0.0
+macholib==1.16.3
+modulegraph==0.19.6
+py2app==0.28.7
